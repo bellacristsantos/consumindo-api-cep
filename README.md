@@ -42,7 +42,7 @@ Integração do arquivo JavaScript ao projeto com o intuito de praticar os conce
 :white_medium_small_square:  Selecionar elementos pelo seu id através do getElementById <br />
 :white_medium_small_square:  Incluir valores em elementos com a propriedade value <br />
 :white_medium_small_square:  Detectar interação do usuário com auxílio do addEventListener <br />
-:white_medium_small_square:  Inserir elementos HTML a partir do innerHTML. <br />
+:white_medium_small_square:  Inserir elementos HTML a partir do innerHTML <br />
 
 
 
